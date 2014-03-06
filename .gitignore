@@ -1,0 +1,10 @@
+target/
+*.swp
+.cache
+.classpath
+.settings
+.project
+.worksheet
+*.sc
+*.log
+
